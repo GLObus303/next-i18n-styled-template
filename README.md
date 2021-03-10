@@ -37,5 +37,3 @@ yarn --frozen-lockfile // --production
 yarn build
 yarn start
 ```
-
-test1
