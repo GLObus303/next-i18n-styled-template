@@ -1,6 +1,6 @@
 # Next.js template
 
-This is template for Next.js app with styled-component and next-i18next
+This is template for Next.js app with styled-component and next-i18next test2
 
 ## To use the project as a template
 
